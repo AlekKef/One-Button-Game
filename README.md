@@ -4,4 +4,4 @@ You can use the [editor on GitHub](https://github.com/AlekKef/One-Button-Game/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Click here to try the game!](https://github.com/AlekKef/One-Button-Game/edit/master/WebVersion/index.html)
+[Click here to try the game!](https://github.com/AlekKef/One-Button-Game/blob/master/WebVersion/index.html)
