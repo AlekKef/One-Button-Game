@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "New Unity Project",
-"dataUrl": "WebVersion.data.unityweb",
-"wasmCodeUrl": "WebVersion.wasm.code.unityweb",
-"wasmFrameworkUrl": "WebVersion.wasm.framework.unityweb",
+"dataUrl": "One-Button-Game.data.unityweb",
+"wasmCodeUrl": "One-Button-Game.wasm.code.unityweb",
+"wasmFrameworkUrl": "One-Button-Game.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
